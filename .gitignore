@@ -1,0 +1,22 @@
+# Dados brutos e intermediários (mantém apenas a pasta)
+data/raw/*
+data/interim/*
+!data/raw/.gitkeep
+!data/interim/.gitkeep
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+
+# R
+.Rhistory
+.RData
+.Rproj.user/
+
+# Segredos e sistema
+.env
+.DS_Store
