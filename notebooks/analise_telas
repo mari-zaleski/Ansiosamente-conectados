@@ -1,0 +1,109 @@
+{
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {},
+      "source": [
+        "# Ansiosamente Conectados — levantamento de indicadores publicados\n",
+        "\n",
+        "**Análise documental descritiva** sobre uso de telas e indicadores relacionados à ansiedade em crianças e adolescentes.\n",
+        "\n",
+        "Este material reúne informações publicadas em fontes secundárias. Não contém análise estatística de microdados nem permite estabelecer relação de causa e efeito."
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {},
+      "source": [
+        "## 1. CNN Brasil — reportagem sobre o Projeto Brief\n",
+        "\n",
+        "**Reportagem:** [46% das crianças mostram ansiedade ligada ao uso de telas, aponta pesquisa](https://www.cnnbrasil.com.br/nacional/brasil/46-das-criancas-mostram-ansiedade-ligada-ao-uso-de-telas-aponta-pesquisa/)\n",
+        "\n",
+        "### Indicadores publicados\n",
+        "\n",
+        "| Indicador | Percentual informado |\n",
+        "|---|---:|\n",
+        "| Pais que relatam ansiedade, irritabilidade ou falta de foco nos filhos associadas ao uso excessivo de telas | 46% |\n",
+        "| Crianças e adolescentes com celular próprio | 77% |\n",
+        "| Menores de 7 anos com conta em redes sociais | 28% |\n",
+        "| Adolescentes de 13 a 18 anos com conta em redes sociais | 91% |\n",
+        "| Relato de assédio ou abuso digital no grupo geral apresentado | 8% |\n",
+        "| Relato de assédio ou abuso digital entre meninas de 13 a 15 anos | 16% |\n",
+        "| Crianças que publicam conteúdos sem acompanhamento | 35% |\n",
+        "| Pais que utilizam controle parental | 37% |\n",
+        "| Pessoas que conhecem o ECA Digital | 36% |\n",
+        "| Apoio à verificação de identidade | 72% |\n",
+        "| Apoio a relatórios de uso obrigatórios | 63% |\n",
+        "\n",
+        "*Os percentuais foram reunidos na ficha de extração de evidências do grupo. Cada indicador pode ter população de referência e pergunta diferentes; não devem ser somados ou tratados como medidas da mesma amostra sem consultar a pesquisa original.*"
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {},
+      "source": [
+        "### Metodologia informada pelo Projeto Brief\n",
+        "\n",
+        "A reportagem apresenta resultados atribuídos a uma pesquisa do **Projeto Brief**, incluindo percepções de pais e informações sobre hábitos digitais. **A ficha utilizada aqui não traz detalhes suficientes para descrever com segurança o tamanho da amostra, a coleta e o método de seleção dos participantes.** Esses pontos precisam ser conferidos na publicação original antes de serem citados no trabalho."
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {},
+      "source": [
+        "## 2. ABOPe — recomendações sobre uso de telas na infância\n",
+        "\n",
+        "**Documento:** [Recomendação sobre uso de telas na infância (2021)](https://www.abope.org.br/wp-content/uploads/2021/01/RECOMENDACAO-SOBRE-USO-DE-TELAS-NA-INFANCIA.pdf)\n",
+        "\n",
+        "Na ficha de evidências do grupo foram registrados os seguintes parâmetros e orientações:\n",
+        "\n",
+        "| Faixa etária | Limite ou orientação registrado na ficha |\n",
+        "|---|---|\n",
+        "| Abaixo de 18 meses | Nenhuma exposição |\n",
+        "| 18 meses a 2 anos | Pouca ou nenhuma exposição; se houver, até 1 hora com supervisão |\n",
+        "| 3 a 5 anos | Até 1 hora por dia |\n",
+        "| 6 a 10 anos | Entre 1 hora e 1 hora e meia por dia |\n",
+        "| 6 a 20 anos | No máximo 2 horas por dia |\n",
+        "\n",
+        "**Outras orientações registradas:** retirar aparelhos do quarto pelo menos 2 horas antes de dormir; estabelecer momentos livres de telas; acompanhar o uso pelas crianças; e orientar o uso em família e na escola.\n",
+        "\n",
+        "*As faixas etárias acima reproduzem a ficha enviada pelo grupo, inclusive a sobreposição entre 6–10 e 6–20 anos. Os limites devem ser conferidos diretamente no documento antes da versão final, pois recomendações podem variar entre instituições.*"
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {},
+      "source": [
+        "## 3. Leitura inicial das fontes\n",
+        "\n",
+        "Os indicadores publicados mostram que o acesso a dispositivos e redes sociais é frequente entre crianças e adolescentes. A reportagem também registra percepções de pais sobre ansiedade, irritabilidade e dificuldades de atenção. Já o documento de recomendações reúne orientações para o uso de telas conforme a idade e a rotina.\n",
+        "\n",
+        "Essas fontes são úteis para **contextualizar o problema e orientar hipóteses**, mas não substituem um conjunto de dados individuais para testar associações estatísticas, nem demonstram que o uso de telas, por si só, causa ansiedade."
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {},
+      "source": [
+        "## Fontes consultadas\n",
+        "\n",
+        "1. CNN Brasil. *46% das crianças mostram ansiedade ligada ao uso de telas, aponta pesquisa.* https://www.cnnbrasil.com.br/nacional/brasil/46-das-criancas-mostram-ansiedade-ligada-ao-uso-de-telas-aponta-pesquisa/\n",
+        "2. ABOPe. *Recomendação sobre uso de telas na infância* (2021). https://www.abope.org.br/wp-content/uploads/2021/01/RECOMENDACAO-SOBRE-USO-DE-TELAS-NA-INFANCIA.pdf\n",
+        "\n",
+        "**Observação:** este resumo foi preparado a partir da ficha de extração de evidências fornecida pelo grupo; os dados metodológicos e os limites de uso devem ser confirmados nas publicações originais."
+      ]
+    }
+  ],
+  "metadata": {
+    "kernelspec": {
+      "display_name": "Python 3",
+      "language": "python",
+      "name": "python3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "nbformat": 4,
+  "nbformat_minor": 5
+}
