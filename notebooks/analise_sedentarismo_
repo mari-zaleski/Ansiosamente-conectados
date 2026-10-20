@@ -1,0 +1,44 @@
+{
+ "cells": [
+  {
+   "cell_type": "markdown",
+   "id": "c84be4d5",
+   "metadata": {},
+   "source": [
+    "# Uso de telas e sedentarismo em crianças e adolescentes\n",
+    "\n",
+    "## Ficha simples de evidências documentais\n",
+    "\n",
+    "Esta ficha reúne informações publicadas por fontes institucionais. Não houve coleta de dados próprios nem análise estatística.\n",
+    "\n",
+    "## Quadro de indicadores e recomendações\n",
+    "\n",
+    "| Fonte | Informação publicada | Relação com o tema |\n",
+    "|---|---|---|\n",
+    "| IBGE — PeNSE 2019 | Entre estudantes de 13 a 17 anos, 51,5% dos alunos de escolas públicas e 62,9% dos de escolas privadas relataram atividades sentadas por mais de três horas diárias, no indicador apresentado pelo IBGE. | Mostra a frequência elevada de comportamento sedentário; não prova que o tempo de tela causou menor atividade física. |\n",
+    "| OMS — diretrizes de 2020 | Para pessoas de 5 a 17 anos, recomenda-se média de pelo menos 60 minutos diários de atividade física moderada a vigorosa ao longo da semana. | Referência para discutir prática de atividade física. |\n",
+    "| OMS — diretrizes de 2020 | Recomenda limitar o tempo sedentário, especialmente o tempo recreativo diante de telas. | Relaciona o tema de telas com comportamento sedentário. |\n",
+    "| Revisão das evidências das diretrizes OMS (2020) | Maior tempo recreativo de tela foi associado, em estudos analisados, a pior aptidão física e outros desfechos desfavoráveis. | Sustenta investigar a associação, mas não estabelece causalidade. |\n",
+    "\n",
+    "## Leitura simples\n",
+    "\n",
+    "As fontes indicam que comportamentos sedentários são frequentes entre adolescentes e que o tempo recreativo diante de telas merece atenção. A OMS recomenda equilibrar a rotina com atividade física e limitar períodos sedentários. Os indicadores apresentados não permitem afirmar que usar mais telas, por si só, faz uma criança praticar menos atividade física.\n",
+    "\n",
+    "## Fontes consultadas\n",
+    "\n",
+    "- IBGE, Pesquisa Nacional de Saúde do Escolar (PeNSE 2019), apresentação de resultados: https://agenciadenoticias.ibge.gov.br/media/com_mediaibge/arquivos/ad542e8a6ea81cd154e61fc7edf39d00.pdf\n",
+    "- OMS, Diretrizes sobre atividade física e comportamento sedentário (2020): https://www.who.int/publications/i/item/9789240015128\n",
+    "- Chaput e colaboradores (2020), resumo das evidências para 5–17 anos: https://pmc.ncbi.nlm.nih.gov/articles/PMC7691077/\n",
+    "\n",
+    "**Observação:** os percentuais do IBGE são apresentados separadamente por rede escolar; não devem ser somados nem interpretados como proporção de todos os adolescentes. O indicador de atividades sentadas não equivale diretamente a tempo de uso de celular.\n"
+   ]
+  }
+ ],
+ "metadata": {
+  "language_info": {
+   "name": "python"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 5
+}
